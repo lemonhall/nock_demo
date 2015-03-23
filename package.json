@@ -1,0 +1,17 @@
+{
+  "name": "WXPiao",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "",
+  "author": "lemonhall",
+  "license": "Commercial",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "nock": "^1.2.0",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
